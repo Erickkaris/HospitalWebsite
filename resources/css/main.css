@@ -1,0 +1,26 @@
+.carousel-inner img{
+    height: 70vh;
+    /*padding-top: 20px;*/
+}
+
+/*Bootstrap Div Styles*/
+.one{
+    background-color: #20c997;
+    height: 40vh;
+}
+.two{
+    background-color: #0dcaf0;
+    height: 40vh;
+}
+.three{
+    background-color: #86b7fe;
+    height: 40vh;
+}
+.four{
+    background-color: #c6acae;
+    height: 40vh;
+}
+.row img{
+    height: 50vh;
+    width: 100%;
+}
